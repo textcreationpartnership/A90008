@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands deliverance, or, a great discovery, being a true relation of the treacherous practices of the papists now resident in this citie. Likewise the reason of the guard placed at the Earle of Worcesters, and Sir Basil Brooks, and my Lord Peters house in Aldersgate-street. With the heads of those orders given by the honorable House of Parliament, concerning the raising of forces to suppresse the commotions in England, and to guard the Ile of Wight.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90008</idno>
+            <idno type="STC">Wing N706</idno>
+            <idno type="STC">Thomason E176_11</idno>
+            <idno type="STC">ESTC R11712</idno>
+            <idno type="EEBO-CITATION">99859112</idno>
+            <idno type="PROQUEST">99859112</idno>
+            <idno type="VID">157094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157094)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E176[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands deliverance, or, a great discovery, being a true relation of the treacherous practices of the papists now resident in this citie. Likewise the reason of the guard placed at the Earle of Worcesters, and Sir Basil Brooks, and my Lord Peters house in Aldersgate-street. With the heads of those orders given by the honorable House of Parliament, concerning the raising of forces to suppresse the commotions in England, and to guard the Ile of Wight.</title>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157094:1" rendition="simple:additions"/>
+            <p>
+               <hi>A new Plot againſt the Parliament.</hi>
+            </p>
+            <p>ENGLANDS DELIVERANCE, <hi>OR,</hi> A GREAT DISCOVERY being a true relation of the treacherous practiſes of the Papiſts now reſident in this Citie.</p>
+            <p>Likewiſe the reaſon of the guard placed at the Earle of Worceſters, and S<hi rend="sup">ir</hi> 
+               <hi>Baſil Brooks,</hi> and my Lord <hi>Peters</hi> Houſe in Alderſgate-ſtreet.</p>
+            <p>With the Heads of thoſe orders given by the Ho<g ref="char:EOLhyphen"/>norable Houſe of <hi>Parliament,</hi> concerning the raiſing of Forces to ſuppreſſe the Commotions in <hi>England,</hi> and to guard the <hi>Ile of Wight.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Greenſmith.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157094:2"/>
+            <pb n="1" facs="tcp:157094:2"/>
+            <head>ENGLANDS DELIVERANCE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He mercies of our God are mani<g ref="char:EOLhyphen"/>fold, as may be plainly feen, by this ſtrange Diſcoverie, which he hath made known in a moſt mira<g ref="char:EOLhyphen"/>culous manner, for which we of <hi>England,</hi> and all true Proteſtants have juſt cauſe to praiſe God, and to crie out with <hi>David, Lord what is man that thou art mindfull of him: or the Son of man that thou regardeſt him?</hi> What are we ſinners that thou ſhouldeſt protect us? what have we done, worth this great deliverance? Surely the mercies of our God, are manifold, and his love endureth for ever, as may appeare in this affaire which I am now to diſcourſe of.</p>
+            <div type="part">
+               <head>The manner of the Plot, and how it pleaſed God to bring it to light.</head>
+               <p>ON Munday being the fifteenth day of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> it happened that a poore man be<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:157094:3"/>neceſſitated, and wanting a lodging, fearing Officers, and being impriſoned was conſtrain<g ref="char:EOLhyphen"/>ed to take up his lodging in a Ditch, neer the Peſt-houſe, where lying, ſome ſmall time, two Gentlemen came and lay down upon the bank, who after they had lain ſo me ſmall time, began to diſcourſe of buſineſſe of eminent danger, which induced this poore man to give eare to their diſcourſe, and ſoftly to creep by degrees neerer and neerer, ſo that he could eaſily under<g ref="char:EOLhyphen"/>ſtand their diſcourſe, and their intentions.</p>
+            </div>
+            <div type="part">
+               <head>The ſubſtance of their diſcourſe.</head>
+               <p>Their diſcourſe was this, That they wondred that their friend did not come and declare what Noblemen they were, that were to be cut off in this enterpriſe: withall, the manner how they ſhould proceed in their attempt, and many o<g ref="char:EOLhyphen"/>ther things of dangerous conſequence, which made the poore man very deſirous to ſee what outſides thoſe men had, that were ſo fraught with Treaſon: At laſt riſing up haſtily, he was diſcovered by the men, whoſe guilt and feare to be known, urged them ſo far, that they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> readie to adde Murther to Treaſon: as if that had not been enough to ſinke them into the bot<g ref="char:EOLhyphen"/>tomleſſe pit of endleſſe miſerie: For immedi<g ref="char:EOLhyphen"/>ately one of them drew his ſword and ran at the innocent man and wounded him dangerouſly,
+<pb n="3" facs="tcp:157094:3"/>ſo that he fell down, as if he were killed, then immediately they ran away. The poore man when they were gone, got up as well as he could and came to ſome members of the houſe of Parliament, and diſcouered it, whereupon the houſe then ſent out three Warrents for to take three French men which they did ſuſpect, who beeing taken were brought to the Parlia<g ref="char:EOLhyphen"/>ment houſe the 16. day of <hi>November,</hi> and vpon their examinations there was command given that the Earl of Worceſters houſe in the Strand ſhould be garded, and S<hi rend="sup">r</hi> Baſill-Brooks, becauſe they did ſuſpect that a Papiſt Priſt was harbord there, which was a chief incendiary and inven<g ref="char:EOLhyphen"/>tor of this treachery.</p>
+               <p>Likewiſe it was ordered by the Houſe of Commons that forces ſhould be raiſed with all ſpeede to ſecure the Ile of <hi>Wight.</hi>
+               </p>
+               <p n="1">1 That their ſhould bee an account taken of all the Papiſts about London.</p>
+               <p n="2">2 There was two Lords nominated that ſhould be apoynted to raiſe forces to ſecure the Kingdome, one beyond Trent and the other on this ſide Trent, and for all other officers they are to be appoynted by the Parliament.</p>
+               <p n="3">3 That there ſhould be a privie ſcarch made for the prieſt aforeſaid, in the houſe of the Earle of Worceſter and S<hi rend="sup">r</hi> Baſill Brooke &amp; to prevent further miſchiefe there is a gard ſet about them by the command of the houſe of Parliament.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="4" facs="tcp:157094:4"/>
+               <head>Being the 16. of <hi>November</hi>
+               </head>
+               <p>Likewiſe this day there was an order from the Parliament, for diſarming of Papiſts, and for the better proceeding they began at my Lord <hi>Peeters</hi> in Alderſgate-ſtreet.</p>
+               <p>This is the whole relation of this greate de<g ref="char:EOLhyphen"/>liverance which it hath pleaſed God to lay open and bring to knowledge, wherefore let vs praiſe God, for though our enemies are in<g ref="char:EOLhyphen"/>numerable, though our troubles be many, yet the Lord delivers vs out of all, let vs amend our lives, let vs truely repent, let vs not diſ<g ref="char:EOLhyphen"/>pleaſe ſo gracious a father, ſo gracious a redee<g ref="char:EOLhyphen"/>mer, let vs bleſſe God for the meanes of our de<g ref="char:EOLhyphen"/>liverance, let vs bleſſe God for our gracious King. let vs bleſſe God for this happie Par<g ref="char:EOLhyphen"/>liament: and laſt of all let vs pray for the eſta<g ref="char:EOLhyphen"/>bliſhment of Religion, let vs love one another, and live in vnitie and peace together, ſo ſhall God protect vs and bleſſe vs here one earth, and crowne vs with eternall glory in the Kingdome of heaven.</p>
+               <pb facs="tcp:157094:4"/>
+            </div>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
